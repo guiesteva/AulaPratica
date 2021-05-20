@@ -4,7 +4,8 @@ public class Guilherme {
 
 	public static void main(String[] args) {
 		 int num = 4;
-		 int num2 = 54;
+		 int num2 = 5;
+		  			
 	}
 
 }
